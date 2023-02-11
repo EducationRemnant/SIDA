@@ -53,27 +53,19 @@ footer {
     background-position-x: center;
     background-position-y: 25%;
     background-size: auto;
-    background-image: url('../images/home2.png');
+    background-image: url('../images/home.png');
     background-repeat: no-repeat;
 }
 
-/*
-.header-short {
-    display: none;
-}
-*/
 @media only screen and (max-width: 576px) {
     .carousel-item {
         background-size: 80%;
     }
-/*
-    .header-long {
-        display: none;
-    }
 
-    .header-short {
-        display: inline-block;
-    }*/
+    .header-long {
+        width: 80%;
+        height: auto;
+    }
 }
 
 .home-slide {
