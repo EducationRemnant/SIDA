@@ -42,7 +42,7 @@ class Footer extends HTMLElement {
                     <p>
                         sida@unomaha.edu <br>
                         106 Eppley Administration Building <br>
-                        6001 University Drive,
+                        6001 Dodge St,
                         Omaha, Nebraska 68132
                     </p>
                 </div>
