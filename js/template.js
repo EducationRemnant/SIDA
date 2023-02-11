@@ -6,7 +6,7 @@ class Header extends HTMLElement {
             <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-black">
                 <div class="container-fluid">
                     <a class="navbar-brand mb-0 header-long" href="https://www.unomaha.edu/index.php">
-                        <img class="d-inline-block align-top img-fluid" src="images/logo.PNG" width="400" height="400" alt="UNO logo">
+                        <img class="d-inline-block align-top img-fluid" src="images/navlogo.PNG" width="400" height="400" alt="UNO logo">
                     </a>
 
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav-menu">
