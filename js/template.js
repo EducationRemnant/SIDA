@@ -34,7 +34,7 @@ customElements.define('template-header', Header)
 class Footer extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
-        <footer class="text-lg-start bg-black text-white p-1 mt-3">
+        <footer class="footer navbar-fixed-bottom text-lg-start bg-black text-white p-1 mt-3">
             <div class="container text-center">
                 <div>
                     <p>
